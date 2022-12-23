@@ -1,0 +1,3 @@
+/home/xu/Desktop/tsetForC++/clion/test(2)(c++14)/cmake-build-debug/CMakeFiles/test_2__c__14_.dir
+/home/xu/Desktop/tsetForC++/clion/test(2)(c++14)/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/xu/Desktop/tsetForC++/clion/test(2)(c++14)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

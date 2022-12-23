@@ -1,0 +1,10 @@
+# ninja log v5
+161	209	6878977421255490	FileReadWriteSample.exe	c939a6a66e3ece00
+0	434	1666196031870148500	CMakeFiles/FileReadWriteSample.dir/main.cpp.o	509c96b326525f3
+438	547	1666196031997856300	FileReadWriteSample.exe	bbffc81fb2ac25ab
+5	421	1666196080504564400	CMakeFiles/FileReadWriteSample.dir/main.cpp.o	509c96b326525f3
+422	560	1666196080617640000	FileReadWriteSample.exe	bbffc81fb2ac25ab
+4	660	1666340401251924700	CMakeFiles/FileReadWriteSample.dir/main.cpp.o	509c96b326525f3
+661	802	1666340401395983900	FileReadWriteSample.exe	bbffc81fb2ac25ab
+5	474	1666340414112238400	CMakeFiles/FileReadWriteSample.dir/main.cpp.o	509c96b326525f3
+474	587	1666340414240243600	FileReadWriteSample.exe	bbffc81fb2ac25ab
